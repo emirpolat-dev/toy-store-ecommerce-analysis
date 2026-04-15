@@ -96,22 +96,10 @@ Some products generated stronger refund pressure, meaning gross sales alone were
 ### 6. Revenue remained concentrated in the flagship product
 The Original Mr. Fuzzy remained the main revenue driver, which is both a strength and a concentration risk.
 
-## Dashboard Structure
-### Page 1: Executive / Sales Performance
-- total sessions
-- total orders
-- conversion rate
-- total revenue
-- revenue per session
-- growth trends over time
-- channel efficiency highlights
+## Dashboard
 
-### Page 2: Customer / Product Insights
-- device performance gap
-- product mix and product revenue
-- basket value patterns
-- refund behavior by product
-- action-oriented business recommendations
+![Cyclistic Dashboard](C:\Users\Emir\Documents\GitHub\toy-store-ecommerce-analysis\outputs\charts)
+
 
 ## Recommendations
 1. Prioritize mobile conversion optimization.
