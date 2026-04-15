@@ -1,0 +1,10 @@
+utm_source,utm_campaign,http_referer,sessions,orders,conversion_rate
+gsearch,nonbrand,https://www.gsearch.com,282706,18822,0.0666
+bsearch,nonbrand,https://www.bsearch.com,54909,3818,0.0695
+direct_type_in,none,none,39917,2856,0.0715
+direct_type_in,none,https://www.gsearch.com,35202,2519,0.0716
+gsearch,brand,https://www.gsearch.com,33329,2511,0.0753
+direct_type_in,none,https://www.bsearch.com,8209,743,0.0905
+bsearch,brand,https://www.bsearch.com,7914,701,0.0886
+socialbook,desktop_targeted,https://www.socialbook.com,5590,288,0.0515
+socialbook,pilot,https://www.socialbook.com,5095,55,0.0108

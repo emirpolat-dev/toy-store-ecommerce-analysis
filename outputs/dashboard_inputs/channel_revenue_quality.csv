@@ -1,0 +1,8 @@
+utm_source,utm_campaign,sessions,orders,revenue,conversion_rate,revenue_per_session,revenue_per_order
+gsearch,nonbrand,282706,18822,1124414.21,0.0666,3.9773,59.74
+direct_type_in,none,83328,6118,371433.03,0.0734,4.4575,60.71
+bsearch,nonbrand,54909,3818,225563.48,0.0695,4.108,59.08
+gsearch,brand,33329,2511,151730.68,0.0753,4.5525,60.43
+bsearch,brand,7914,701,43109.02,0.0886,5.4472,61.5
+socialbook,desktop_targeted,5590,288,18516.1,0.0515,3.3124,64.29
+socialbook,pilot,5095,55,3743.23,0.0108,0.7347,68.06
