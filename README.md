@@ -137,12 +137,12 @@ toy_store/
 │   └── toy_store_dashboard.pbix
 ├── outputs/
 │   ├── charts/
-│   └── summary_tables/
 ├── docs/
 │   ├── case_study_report.md
 │   └── toy_store_findings_summary.docx
 └── README.md
 ```
 
-## Project Status
-Core analysis completed. Documentation and dashboard packaging are being refined for final portfolio presentation.
+## Author
+Emir Polat;
+Architecture and design background transitioning into data analytics and data science through practical case studies, portfolio projects, and public learning.
