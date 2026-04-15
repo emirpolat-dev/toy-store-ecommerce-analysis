@@ -98,7 +98,7 @@ The Original Mr. Fuzzy remained the main revenue driver, which is both a strengt
 
 ## Dashboard
 
-![Cyclistic Dashboard](C:\Users\Emir\Documents\GitHub\toy-store-ecommerce-analysis\outputs\charts\maven_fuzzy_factory_infographic_en.png)
+![Cyclistic Dashboard](outputs\charts\maven_fuzzy_factory_infographic_en.png)
 
 
 ## Recommendations
